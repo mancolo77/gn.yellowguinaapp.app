@@ -88,3 +88,4 @@ class _FavorisTabState extends State<FavorisTab> {
     );
   }
 }
+
